@@ -1,11 +1,7 @@
-## CS838 Data Science UW Madison
+### CS838 Data Science UW Madison
 
-
-### Markdown
-
-Group Memebers
-```markdown
-
+### Group Memebers
 1. Hasnain Pirzada
 2. Sanchit Jain
 3. Ancy Philip
+

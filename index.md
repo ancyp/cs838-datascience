@@ -19,7 +19,7 @@ Rotten Tomatoes
 [Generated JSON](https://github.com/hasnain-pirzada/datascience-projct/blob/master/crawl/rotten_tomatoes_dump.json)
 
 # Report
-[PDF](https://docs.google.com/a/sanchit.net/document/d/1z63JBJICB6g2DQtSm8dAm5CQZbK3d9LNNxMvu7pZ8S0/edit?usp=sharing)
+[DOCS](https://docs.google.com/a/sanchit.net/document/d/1z63JBJICB6g2DQtSm8dAm5CQZbK3d9LNNxMvu7pZ8S0/edit?usp=sharing)
 
 
 
